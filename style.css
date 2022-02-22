@@ -50,7 +50,7 @@ nav .item .svg-icon {
 }
 
 .main {
-    background-image: url('/assets/slider.png');
+    background-image: url('./assets/slider.png');
     height: 95vh;
     background-size: cover;
     background-repeat: no-repeat;
